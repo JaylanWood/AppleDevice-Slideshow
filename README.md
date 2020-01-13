@@ -2,7 +2,7 @@
 
 ## 效果预览
 
-[预览地址]()
+[预览地址](https://jaylanwood.github.io/AppleDevice-Slideshow/)
 
 ## 特性
 
